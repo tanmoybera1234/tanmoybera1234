@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com/demo/?duration=2890&pause=950&color=1AD0F7&lines=Hey+there...;I+am+Full+Stack+Mern+Web+Developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2890&pause=950&color=1AD0F7&width=435&lines=Hey+there...;I+am+Full+Stack+Mern+Web+Developer" alt="Typing SVG" /></a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tanmoybera123/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanmoy-bera-20aa9227b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/@tanmoybera4830) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmoybera4830@gmail.com) 
 
